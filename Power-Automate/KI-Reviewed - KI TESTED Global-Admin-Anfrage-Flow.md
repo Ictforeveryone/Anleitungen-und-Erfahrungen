@@ -65,5 +65,7 @@ Wartet auf die Entscheidung eines der zwei Vorgesetzten.
 ## Hinweise
 
 - Recipient in den Inform-Schritten: `outputs('Antwortdetails_abrufen')?['body/responder']`
-- Den temporären Global Admin Link (z.B. PIM Aktivierungslink) direkt im Genehmigungs-Body oder in der Approval-Antwort mitgeben
 - Flow läuft unter der Verbindung des Flow-Erstellers – dieser benötigt Lesezugriff auf das Formular
+<img width="2153" height="512" alt="image" src="https://github.com/user-attachments/assets/a57e232a-4e56-4268-8e4f-f0373b854994" /><img width="737" height="762" alt="image" src="https://github.com/user-attachments/assets/90fd1f9d-351f-4478-8868-4f1d0af7119c" />
+<img width="833" height="840" alt="image" src="https://github.com/user-attachments/assets/8e90247d-355f-4d15-9388-4b55f3b35680" />
+
