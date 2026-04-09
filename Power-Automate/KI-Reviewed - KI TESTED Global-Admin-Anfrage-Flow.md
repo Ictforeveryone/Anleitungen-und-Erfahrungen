@@ -1,4 +1,4 @@
-# Global Admin Anfrage – Power Automate Flow 
+# Global Admin Anfrage – Power Automate Flow KI.Tested KI.Reviewed
 
 ## Zweck
 Mitarbeitende können temporären Global Admin Zugriff beantragen. Einer von zwei definierten Vorgesetzten muss den Antrag genehmigen.
